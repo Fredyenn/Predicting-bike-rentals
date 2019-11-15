@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This project conduct data exploration on bike rental data with visualization packges like matplotlib and seaborn.
+
 Communal bike sharing serves have been implemented in many American cities. As a such service provider, we would like to know what factors may impact the total bike rentals and predicting how much profit we can make for given circumstances. This project implement ML algorithm to predict total bike rentals and distinct major factors that contribute to the result.
 
 The data set will be using is from [Hadi Fanaee-T](https://folk.uio.no/hadift/) at the [University of Porto](http://www.up.pt/). This data set contains bike rental information at Washington, D.C. The csv file can be downloaded [here](http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) from the University of California, Irvine's website.
